@@ -52,7 +52,7 @@ of these examples are below:
 >  professional setting
 
 While this all sounds nice it is (probably intentionally) rather vague. But
-it kind of boils down to my favorite rules for life:
+it kind of boils down to my favorite rule for life:
 
 ### Don't be a dick
 
@@ -85,6 +85,7 @@ If you think it's a good idea to attack a person or their code because of their
 * physical or cognitive disability
 * anything else that relates to "protected classes" or has nothing to do with the code and/or
 facts at hand
+
 this is most likely not the place for you. Feel free to find out but don't be suprised if my
 patience on these issues is rather short.
 
@@ -93,7 +94,7 @@ patience on these issues is rather short.
 Everything said above also applies to "humor". While I enjoy really dark and "edgy" humor
 myself, one has to be aware that others might not. This is especially tricky when you 
 can only see what someone worte. Plus the person reading it will most likely don't know
-you and doesn't even know it's meatn as a joke and even if so, they might not find it
+you and doesn't even know that it's meant as a joke and even if so, they might not find it
 funny. Therefore you should play it safe and when in doubt ... well, see above. And don't
 even try to hide behind the "It was just a joke" excuse. While intend matters, the effect
 determines the severty. 
