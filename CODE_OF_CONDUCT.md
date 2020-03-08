@@ -74,8 +74,8 @@ I guess from this alone you can guess my stance on this and for a long time I us
 this is just "normal" and not something you have to point out. But especially in recent
 years I learned that reality disagrees with me. So:
 
-I have really no idea how this comes up that often, especially in software projects
-whre none of those have ANYTHING to do with the code that was written, let me just
+I have really no idea how this comes up that often, especially in software projects where
+none of those have ANYTHING to do with the code that was written, let me just
 spell it out as clear as I can
 
 If you think it's a good idea to attack a person or their code because of their
