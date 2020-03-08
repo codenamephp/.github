@@ -96,8 +96,8 @@ myself, one has to be aware that others might not. This is especially tricky whe
 can only see what someone worte. Plus the person reading it will most likely don't know
 you and doesn't even know that it's meant as a joke and even if so, they might not find it
 funny. Therefore you should play it safe and when in doubt ... well, see above. And don't
-even try to hide behind the "It was just a joke" excuse. While intend matters, the effect
-determines the severty. 
+even try to hide behind the "It was just a joke" excuse. While intent matters, the effect
+determines the severity. 
 Also: We don't have time for jokes anyway, we are here for serious business! (This was a 
 joke ... or was it? I'm german after all so you can never know ... see what I mean?)
 
@@ -135,11 +135,13 @@ to it eventually I fully expect to be dealing with reasonable and - mostly - adu
 
 That means I expect at least some effort to resolve issues without the "Code of Conduct Police".
 In short: Talk to each other! And even more important: Listen to each other! I really don't want
-to be bother with "He refuses to use my proper pronouns" (only one example of many, but this 
+to be bothered with "He refuses to use my proper pronouns" (only one example of many, but this 
 drives the point home). If you are asked by someone in a reasonable and respectful way to please
 use a "word" to address them, just try to do it. If that's too much to ask, then don't, but please
-"don't" somewhere else. In reverse: If the other persons at least tries, then don't assume bad intend
-for no reason and "be the bigger person".
+"don't" somewhere else. To you, it's just a word. To them, it might be much more important than you
+realize. In reverse: If the other persons at least tries, then don't assume bad intent
+for no reason and "be the bigger person". Just keep reminding them from time to time but don't expect
+that you can change everyone.
 
 After all: If 2 people can't resolve their difference it might ne be ne necessary to enforce the rules
 which can mean that only one of them can stick around - at best.
@@ -149,7 +151,11 @@ which can mean that only one of them can stick around - at best.
 I'm not a big fan of "screw up in one place, be screwed in all other places". That only isolates people
 who would benefit of being in reasonable communites. So in general, this Code of Conduct applies
 to CodenamePHP only. Having that said: If it known that you act like a dick in other places and you 
-start to act like a dick here too, that might cut "the fuse" rather short.
+start to act like a dick here too, that might cut "the fuse" rather short. Yes, while I think that
+it might be benefitial for some individuals to be part of a community and be pulled in what I would
+think is a "good direction", the community has to take precendence. After all, if you let the community
+go down in flames because of a few people who "refuse to learn", you have to show those individuals to
+the door. Which leads to
 
 ## Enforcement
 
@@ -158,7 +164,7 @@ If you feel someone failed to adhere to the rules, send them here and remind the
 And please do so in a respectful way. Even if they are not respectful, you cannot hold someone to a 
 standard that you are not holding yourself to.
 
-If they fail to respect to the rules after, just @ me (@bastianschwarz) at the issue at hand or send 
+If they fail to respect the rules after, just @ me (@bastianschwarz) at the issue at hand or send 
 an E-Mail to org@codename-php.de outlining the problem, the steps already taken to resolve the problem
 and any additional information that might be helpful for me to review the issue.
 
