@@ -150,7 +150,7 @@ which can mean that only one of them can stick around - at best.
 
 I'm not a big fan of "screw up in one place, be screwed in all other places". That only isolates people
 who would benefit from being in reasonable communites. So in general, this Code of Conduct applies
-to CodenamePHP only. Having that said: If it known that you act like a dick in other places and you 
+to CodenamePHP only. Having that said: If it's known that you act like a dick in other places and you 
 start to act like a dick here too, that might cut "the fuse" rather short. Yes, while I think that
 it might be benefitial for some individuals to be part of a community and be pulled in what I would
 think is a "good direction", the community has to take precendence. After all, if you let the community
