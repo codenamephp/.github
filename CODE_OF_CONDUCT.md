@@ -6,7 +6,7 @@ of what that means, read on. If you can't, go somewhere else.
 
 ## Introduction, Purpose and a simple fallback rule (One to rule them all!)
 
-CodenamePHP ist a tiny org. In fact, it's just me. It's where I do my
+CodenamePHP is a tiny org. In fact, it's just me. It's where I do my
 "recreational coding" or building stuff I intent to use in my day job when
 I don't want to have any time or budget constraints.
 
