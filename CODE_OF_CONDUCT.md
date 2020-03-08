@@ -130,7 +130,7 @@ to activly solve a problem and are not expecting to be carried to a solution.
 
 ## Responsibilities
 
-While of course I am responsible of maintaing the code of conduct and make sure everyone is held
+While of course I am responsible for maintaing the code of conduct and make sure everyone is held
 to it eventually I fully expect to be dealing with reasonable and - mostly - adult human beings.
 
 That means I expect at least some effort to resolve issues without the "Code of Conduct Police".
@@ -149,7 +149,7 @@ which can mean that only one of them can stick around - at best.
 ## Scope
 
 I'm not a big fan of "screw up in one place, be screwed in all other places". That only isolates people
-who would benefit of being in reasonable communites. So in general, this Code of Conduct applies
+who would benefit from being in reasonable communites. So in general, this Code of Conduct applies
 to CodenamePHP only. Having that said: If it known that you act like a dick in other places and you 
 start to act like a dick here too, that might cut "the fuse" rather short. Yes, while I think that
 it might be benefitial for some individuals to be part of a community and be pulled in what I would
