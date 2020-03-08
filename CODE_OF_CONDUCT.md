@@ -66,7 +66,7 @@ To try and get the vagueness out of that I will list some specific examples that
 probably everyone knows who spent some time around forums or "comment sections".
 
 ### Sexism/Racism/"Political Correctness"
-First of I really dislike the term "political correctness". "Political correctness" 
+First off I really dislike the term "political correctness". "Political correctness" 
 sounds like it is removed from our everyday life and just something that applies to others.
 When I grew up we called it "having good manners". Or once again: "don't be dick". 
 
