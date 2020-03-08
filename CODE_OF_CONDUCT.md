@@ -94,9 +94,11 @@ Everything said above also applies to "humor". While I enjoy really dark and "ed
 myself, one has to be aware that others might not. This is especially tricky when you 
 can only see what someone worte. Plus the person reading it will most likely don't know
 you and doesn't even know it's meatn as a joke and even if so, they might not find it
-funny. Therefore you should play it safe and when in doubt ... well, see above. Also:
-We don't have time for jokes anyway, we are here for serious business! (This was a joke ...
-or was it? I'm german after all you can never know ... see what I mean?)
+funny. Therefore you should play it safe and when in doubt ... well, see above. And don't
+even try to hide behind the "It was just a joke" excuse. While intend matters, the effect
+determines the severty. 
+Also: We don't have time for jokes anyway, we are here for serious business! (This was a 
+joke ... or was it? I'm german after all so you can never know ... see what I mean?)
 
 ### How to respond to questions
 
