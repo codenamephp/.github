@@ -79,19 +79,19 @@ none of those have ANYTHING to do with the code that was written, let me just
 spell it out as clear as I can
 
 If you think it's a good idea to attack a person or their code because of their
-* sex/gender/identity/<insert other category here I probably don't even heard of)
+* sex/gender/identity/<insert other category here I probably don't even heard of>
 * skin color/ethnicity/nationality
 * religious belief (or lack thereof)
 * physical or cognitive disability
 * anything else that relates to "protected classes" or has nothing to do with the code and/or
 facts at hand
 
-this is most likely not the place for you. Feel free to find out but don't be suprised if my
+this is most likely NOT the place for you. Feel free to find out but don't be suprised if my
 patience on these issues is rather short.
 
 ### Humor
 
-Everything said above also applies to "humor". While I enjoy really dark and "edgy" humor
+Everything said above also applies to "humor" as well. While I enjoy really dark and "edgy" humor
 myself, one has to be aware that others might not. This is especially tricky when you 
 can only see what someone worte. Plus the person reading it will most likely don't know
 you and doesn't even know that it's meant as a joke and even if so, they might not find it
