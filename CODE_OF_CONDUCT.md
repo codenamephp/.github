@@ -76,7 +76,7 @@ years I learned that reality disagrees with me. So:
 
 I have really no idea how this comes up that often, especially in software projects where
 none of those have ANYTHING to do with the code that was written, let me just
-spell it out as clear as I can
+spell it out as clear as I can:
 
 If you think it's a good idea to attack a person or their code because of their
 * sex/gender/identity/<insert other category here I probably don't even heard of>
@@ -93,7 +93,7 @@ patience on these issues is rather short.
 
 Everything said above also applies to "humor" as well. While I enjoy really dark and "edgy" humor
 myself, one has to be aware that others might not. This is especially tricky when you 
-can only see what someone worte. Plus the person reading it will most likely don't know
+can only see what someone wrote. Plus the person reading it will most likely don't know
 you and doesn't even know that it's meant as a joke and even if so, they might not find it
 funny. Therefore you should play it safe and when in doubt ... well, see above. And don't
 even try to hide behind the "It was just a joke" excuse. While intent matters, the effect
