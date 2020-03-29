@@ -143,7 +143,7 @@ realize. In reverse: If the other persons at least tries, then don't assume bad 
 for no reason and "be the bigger person". Just keep reminding them from time to time but don't expect
 that you can change everyone.
 
-After all: If 2 people can't resolve their difference it might ne be ne necessary to enforce the rules
+After all: If 2 people can't resolve their difference it might be necessary to enforce the rules
 which can mean that only one of them can stick around - at best.
 
 ## Scope
