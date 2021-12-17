@@ -177,6 +177,6 @@ a ban on first offenses is possible.
 
 ## Further questions/Suggestions
 
-While I think I explained everything as good as I can (obviously, or I wouldn't have published it)
-feel free to contact me if you have any further questions or suggestions. Of couse since this is
+While I think I explained everything as well as I can (obviously, or I wouldn't have published it)
+feel free to contact me if you have any further questions or suggestions. Of course since this is
 GitHub, the preferred way would be a pull request with the changes you want to see.
